@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "lib": ["dom", "dom.iterable", "esnext"],
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "esModuleInterop": true,
+        "module": "ESNext",
+        "moduleResolution": "node"
+    },
+    "exclude": [
+        "node_modules",
+        "build"
+    ],
+}
+
